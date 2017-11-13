@@ -1,0 +1,2 @@
+labels : pred_y.txt, 1 means same as grountruth, 0 means different
+result : result.txt
